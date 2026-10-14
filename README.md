@@ -11,7 +11,7 @@
     <img
         src="profile.jpg"
         alt="Profile picture"
-        width="75"
+        width="100"
     />
 </td>
 </tr>
@@ -77,7 +77,7 @@
     <img
         src="profile.jpg"
         alt="Profil fotoğrafı"
-        width="75"
+        width=100"
         />
 </td>
 </tr>
