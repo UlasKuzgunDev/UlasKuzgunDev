@@ -1,4 +1,6 @@
-### `Hello World!`
+<a href="https://github.com/UlasKuzgunDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=30E62B&vCenter=true&width=520&lines=Hello+World!;I'm+Ula%C5%9F+Kuzgun" alt="Typing header" />
+</a>
 
 ## English
 
@@ -125,3 +127,18 @@
 - <img align="center" src="https://skillicons.dev/icons?i=java" height="24" /> &nbsp;Java
 - <img align="center" src="https://skillicons.dev/icons?i=kotlin" height="24" /> &nbsp;Kotlin
 - <img align="center" src="https://skillicons.dev/icons?i=flutter" height="24" /> &nbsp;Flutter
+
+<br>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UlasKuzgunDev&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlasKuzgunDev&layout=compact&theme=dark&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=UlasKuzgunDev&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
