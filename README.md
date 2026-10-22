@@ -1,127 +1,127 @@
 ### `Hello World!`
-## 🇬🇧 English
+
+## English
 
 <table>
 <tr>
 <td valign="bottom">
-
 <h1>Ulaş Kuzgun</h1>
 </td>
 <td valign="bottom" align="center">
-    <img
-        src="profile.jpg"
-        alt="Profile picture"
-        width="100"
-    />
+  <img src="profile.jpg" alt="Profile picture" width="100" />
 </td>
 </tr>
 </table>
 
 <p>
-    I'm curious, always eager to learn, and constantly working to improve myself. On my GitHub profile, I share projects I've built and experimented with across different areas. I aim to keep learning and gaining experience so I can develop bigger and more useful projects in the future.
+  I'm curious, always eager to learn, and constantly working to improve myself. On my GitHub profile, I share projects I've built and experimented with across different areas. I aim to keep learning and gaining experience so I can develop bigger and more useful projects in the future.
 </p>
 
-<h2>Interests</h2>
-<ul type="circle">
-    <li>Software Development</li>
-    <li>Web Development</li>
-    <li>Mobile App Development</li>
-    <li>Game Development</li>
-    <li>Low-Level Programming</li>
-    <li>Operating Systems</li>
-    <li>Networking</li>
-    <li>Cybersecurity</li>
-    <li>Developer Tools &amp; Automation</li>
-    <li>Reverse Engineering</li>
-    <li>Open-Source Development</li>
-</ul>
+### Interests
+
+- Software Development
+- Web Development
+- Mobile App Development
+- Game Development
+- Low-Level Programming
+- Operating Systems
+- Networking
+- Cybersecurity
+- Developer Tools & Automation
+- Reverse Engineering
+- Open-Source Development
 
 ### Languages & Technologies
 
-- Programming & Scripting Languages
-    - Python
-    - JavaScript
-    - C
-    - Ruby
-    - Bash Script
+**Programming & Scripting Languages**
 
-- Web Technologies
-    - HTML
-    - CSS
+- <img align="center" src="https://skillicons.dev/icons?i=python" height="24" /> &nbsp;Python
+- <img align="center" src="https://skillicons.dev/icons?i=js" height="24" /> &nbsp;JavaScript
+- <img align="center" src="https://skillicons.dev/icons?i=c" height="24" /> &nbsp;C
+- <img align="center" src="https://skillicons.dev/icons?i=ruby" height="24" /> &nbsp;Ruby
+- <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Bash Script
 
-- Currently Learning
-    - Ruby on Rails
-    - C++
-    - x86-64 Assembly
+**Web Technologies**
 
-- Future Learning Goals
-    - TypeScript
-    - React
-    - React Native
-    - Java
-    - Kotlin
-    - Flutter
+- <img align="center" src="https://skillicons.dev/icons?i=html" height="24" /> &nbsp;HTML
+- <img align="center" src="https://skillicons.dev/icons?i=css" height="24" /> &nbsp;CSS
 
+**Currently Learning**
+
+- <img align="center" src="https://skillicons.dev/icons?i=rails" height="24" /> &nbsp;Ruby on Rails
+- <img align="center" src="https://skillicons.dev/icons?i=cpp" height="24" /> &nbsp;C++
+- <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
+
+**Future Learning Goals**
+
+- <img align="center" src="https://skillicons.dev/icons?i=ts" height="24" /> &nbsp;TypeScript
+- <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React
+- <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React Native
+- <img align="center" src="https://skillicons.dev/icons?i=java" height="24" /> &nbsp;Java
+- <img align="center" src="https://skillicons.dev/icons?i=kotlin" height="24" /> &nbsp;Kotlin
+- <img align="center" src="https://skillicons.dev/icons?i=flutter" height="24" /> &nbsp;Flutter
 
 <br>
 
+---
 
-## 🇹🇷 Türkçe
+## Türkçe
+
 <table>
 <tr>
 <td valign="bottom">
-
 <h1>Ulaş Kuzgun</h1>
 </td>
 <td valign="bottom" align="center">
-    <img
-        src="profile.jpg"
-        alt="Profil fotoğrafı"
-        width=100"
-        />
+  <img src="profile.jpg" alt="Profil fotoğrafı" width="100" />
 </td>
 </tr>
 </table>
+
 <p>
-    Kendimi sürekli geliştirmeye çalışan, meraklı, öğrenmeye açık biriyim. GitHub profilimde farklı alanlarda geliştirdiğim ve denediğim projelere yer veriyorum. Öğrenmeye ve deneyim kazanmaya devam ederek ileride daha büyük ve daha kullanışlı projeler geliştirmeyi hedefliyorum.
+  Kendimi sürekli geliştirmeye çalışan, meraklı, öğrenmeye açık biriyim. GitHub profilimde farklı alanlarda geliştirdiğim ve denediğim projelere yer veriyorum. Öğrenmeye ve deneyim kazanmaya devam ederek ileride daha büyük ve daha kullanışlı projeler geliştirmeyi hedefliyorum.
 </p>
 
-<h2>İlgi Alanlarım</h2>
-<ul type="circle">
-    <li>Yazılım geliştirme</li>
-    <li>Web geliştirme</li>
-    <li>Mobil uygulama geliştirme</li>
-    <li>Oyun geliştirme</li>
-    <li>Düşük seviye programlama</li>
-    <li>İşletim sistemleri</li>
-    <li>Networking</li>
-    <li>Siber güvenlik</li>
-    <li>Geliştirici araçları &amp; Otomasyon</li>
-    <li>Tersine mühendislik</li>
-    <li>Açık kaynak geliştirme</li>
-</ul>
+### İlgi Alanlarım
+
+- Yazılım geliştirme
+- Web geliştirme
+- Mobil uygulama geliştirme
+- Oyun geliştirme
+- Düşük seviye programlama
+- İşletim sistemleri
+- Networking
+- Siber güvenlik
+- Geliştirici araçları & Otomasyon
+- Tersine mühendislik
+- Açık kaynak geliştirme
 
 ### Diller ve Teknolojiler
-- Programlama ve Betik Dilleri
-    - Python
-    - JavaScript
-    - C
-    - Ruby
-    - Bash Scripting
 
-- Web Teknolojileri
-    - HTML
-    - CSS
+**Programlama ve Betik Dilleri**
 
-- Öğreniyorum
-    - Ruby on Rails
-    - C++
-    - x86-64 Assembly
+- <img align="center" src="https://skillicons.dev/icons?i=python" height="24" /> &nbsp;Python
+- <img align="center" src="https://skillicons.dev/icons?i=js" height="24" /> &nbsp;JavaScript
+- <img align="center" src="https://skillicons.dev/icons?i=c" height="24" /> &nbsp;C
+- <img align="center" src="https://skillicons.dev/icons?i=ruby" height="24" /> &nbsp;Ruby
+- <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Bash Scripting
 
-- Öğrenme hedefleri
-    - TypeScript
-    - React
-    - React Native
-    - Java
-    - Kotlin
-    - Flutter
+**Web Teknolojileri**
+
+- <img align="center" src="https://skillicons.dev/icons?i=html" height="24" /> &nbsp;HTML
+- <img align="center" src="https://skillicons.dev/icons?i=css" height="24" /> &nbsp;CSS
+
+**Öğreniyorum**
+
+- <img align="center" src="https://skillicons.dev/icons?i=rails" height="24" /> &nbsp;Ruby on Rails
+- <img align="center" src="https://skillicons.dev/icons?i=cpp" height="24" /> &nbsp;C++
+- <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
+
+**Öğrenme Hedefleri**
+
+- <img align="center" src="https://skillicons.dev/icons?i=ts" height="24" /> &nbsp;TypeScript
+- <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React
+- <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React Native
+- <img align="center" src="https://skillicons.dev/icons?i=java" height="24" /> &nbsp;Java
+- <img align="center" src="https://skillicons.dev/icons?i=kotlin" height="24" /> &nbsp;Kotlin
+- <img align="center" src="https://skillicons.dev/icons?i=flutter" height="24" /> &nbsp;Flutter
