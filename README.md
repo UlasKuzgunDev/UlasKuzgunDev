@@ -43,7 +43,7 @@
     - JavaScript
     - C
     - Ruby
-    - Bash
+    - Bash Script
 
 - Web Technologies
     - HTML
