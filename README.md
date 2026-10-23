@@ -41,16 +41,17 @@
 - <img align="center" src="https://skillicons.dev/icons?i=js" height="24" /> &nbsp;JavaScript
 - <img align="center" src="https://skillicons.dev/icons?i=c" height="24" /> &nbsp;C
 - <img align="center" src="https://skillicons.dev/icons?i=ruby" height="24" /> &nbsp;Ruby
+- <img align="center" src="https://skillicons.dev/icons?i=cs" height="24" /> &nbsp;C#
 - <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Bash Script
 
 **Web Technologies**
 
 - <img align="center" src="https://skillicons.dev/icons?i=html" height="24" /> &nbsp;HTML
 - <img align="center" src="https://skillicons.dev/icons?i=css" height="24" /> &nbsp;CSS
+- <img align="center" src="https://skillicons.dev/icons?i=rails" height="24" /> &nbsp;Ruby on Rails
 
 **Currently Learning**
 
-- <img align="center" src="https://skillicons.dev/icons?i=rails" height="24" /> &nbsp;Ruby on Rails
 - <img align="center" src="https://skillicons.dev/icons?i=cpp" height="24" /> &nbsp;C++
 - <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
 
@@ -106,16 +107,17 @@
 - <img align="center" src="https://skillicons.dev/icons?i=js" height="24" /> &nbsp;JavaScript
 - <img align="center" src="https://skillicons.dev/icons?i=c" height="24" /> &nbsp;C
 - <img align="center" src="https://skillicons.dev/icons?i=ruby" height="24" /> &nbsp;Ruby
+- <img align="center" src="https://skillicons.dev/icons?i=cs" height="24" /> &nbsp;C#
 - <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Bash Scripting
 
 **Web Teknolojileri**
 
 - <img align="center" src="https://skillicons.dev/icons?i=html" height="24" /> &nbsp;HTML
 - <img align="center" src="https://skillicons.dev/icons?i=css" height="24" /> &nbsp;CSS
+- <img align="center" src="https://skillicons.dev/icons?i=rails" height="24" /> &nbsp;Ruby on Rails
 
 **Öğreniyorum**
 
-- <img align="center" src="https://skillicons.dev/icons?i=rails" height="24" /> &nbsp;Ruby on Rails
 - <img align="center" src="https://skillicons.dev/icons?i=cpp" height="24" /> &nbsp;C++
 - <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
 
