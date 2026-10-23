@@ -42,7 +42,7 @@
 - <img align="center" src="https://skillicons.dev/icons?i=c" height="24" /> &nbsp;C
 - <img align="center" src="https://skillicons.dev/icons?i=ruby" height="24" /> &nbsp;Ruby
 - <img align="center" src="https://skillicons.dev/icons?i=cs" height="24" /> &nbsp;C#
-- <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Bash Script
+- <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Shell
 
 **Web Technologies**
 
@@ -108,7 +108,7 @@
 - <img align="center" src="https://skillicons.dev/icons?i=c" height="24" /> &nbsp;C
 - <img align="center" src="https://skillicons.dev/icons?i=ruby" height="24" /> &nbsp;Ruby
 - <img align="center" src="https://skillicons.dev/icons?i=cs" height="24" /> &nbsp;C#
-- <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Bash Scripting
+- <img align="center" src="https://skillicons.dev/icons?i=bash" height="24" /> &nbsp;Shell
 
 **Web Teknolojileri**
 
