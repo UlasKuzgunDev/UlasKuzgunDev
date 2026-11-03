@@ -52,16 +52,17 @@
 **Currently Learning**
 
 - <img align="center" src="https://skillicons.dev/icons?i=cpp" height="24" /> &nbsp;C++
-- <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
+- <img align="center" src="https://skillicons.dev/icons?i=ts" height="24" /> &nbsp;TypeScript
 
 **Future Learning Goals**
 
-- <img align="center" src="https://skillicons.dev/icons?i=ts" height="24" /> &nbsp;TypeScript
 - <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React
 - <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React Native
 - <img align="center" src="https://skillicons.dev/icons?i=java" height="24" /> &nbsp;Java
 - <img align="center" src="https://skillicons.dev/icons?i=kotlin" height="24" /> &nbsp;Kotlin
 - <img align="center" src="https://skillicons.dev/icons?i=flutter" height="24" /> &nbsp;Flutter
+- <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
+- <img align="center" src="https://skillicons.dev/icons?i=rust" height="24" /> &nbsp;Rust
 
 <br>
 
@@ -117,16 +118,17 @@
 **Öğreniyorum**
 
 - <img align="center" src="https://skillicons.dev/icons?i=cpp" height="24" /> &nbsp;C++
-- <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
+- <img align="center" src="https://skillicons.dev/icons?i=ts" height="24" /> &nbsp;TypeScript
 
 **Öğrenme Hedefleri**
 
-- <img align="center" src="https://skillicons.dev/icons?i=ts" height="24" /> &nbsp;TypeScript
 - <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React
 - <img align="center" src="https://skillicons.dev/icons?i=react" height="24" /> &nbsp;React Native
 - <img align="center" src="https://skillicons.dev/icons?i=java" height="24" /> &nbsp;Java
 - <img align="center" src="https://skillicons.dev/icons?i=kotlin" height="24" /> &nbsp;Kotlin
 - <img align="center" src="https://skillicons.dev/icons?i=flutter" height="24" /> &nbsp;Flutter
+- <img align="center" src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" height="24" /> &nbsp;x86-64 Assembly
+- <img align="center" src="https://skillicons.dev/icons?i=rust" height="24" /> &nbsp;Rust
 
 <br>
 
